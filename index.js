@@ -5,8 +5,8 @@ function button()
 { 
 
     if (Hackbutton > 1) {
-        alert('You hacked the website.')
-        
+        alert('You hacked the website.');
+        window.location = 'hacked.html';
       } else {
         alert('Your not allowed to visit this website.')
       }
