@@ -6,7 +6,7 @@ function button()
 
     if (Hackbutton > 1) {
         alert('You hacked the website.')
-        location.href = 'http://www.rocketsimulator.ga';
+        location.href = 'https://www.rocketsimulator.ga';
       } else {
         alert('Your not allowed to visit this website.')
       }
