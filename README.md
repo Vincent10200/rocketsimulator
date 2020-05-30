@@ -1,2 +1,0 @@
-# rocketsimulator
-rocketsim
